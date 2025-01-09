@@ -15,9 +15,3 @@ A MongoDB-based API for managing users, videos, comments, playlists, and subscri
 
 ---
 
-## **Tasks for MongoDB Initialization**  
-Run the following commands to populate the database:  
-
-### **Users Collection**  
-```javascript
-db.users.insertMany([...]); // Example data provided in the full documentation
